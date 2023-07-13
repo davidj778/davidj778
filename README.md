@@ -3,11 +3,11 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/davidj778/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Deploying Active Directory and Creating Users](https://github.com/joshmadakorcc/configure-ad)
+  - [Deploying Active Directory and Creating Users](https://github.com/davidj778/configure-ad)
 - <b>Network File Shares</b>
-  - [Network File Shares and Permissions](https://github.com/joshmadakorcc/configure-ad)
+  - [Network File Shares and Permissions](https://github.com/davidj778/configure-ad)
 
 <h2>Connect with me:</h2>
 
