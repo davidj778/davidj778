@@ -1,4 +1,5 @@
-<h1>Hi, I'm David, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/david-j-030135280?original_referer=
+">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
