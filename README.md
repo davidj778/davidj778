@@ -18,6 +18,6 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: www.linkedin.com/in/david-j-030135280
+[linkedin]: https://www.linkedin.com/in/david-j-030135280?original_referer=
 
 
