@@ -3,11 +3,9 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/davidj778/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Deploying Active Directory and Creating Users](https://github.com/davidj778/Active-Directory)
-- <b>Network File Shares</b>
+- <b>Building Intuition for DNS</b>
   - [Network File Shares and Permissions](https://github.com/davidj778/Network-File-Shares)
 
 <h2>Connect with me:</h2>
