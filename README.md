@@ -6,7 +6,7 @@
 - <b>Active Directory</b>
   - [Deploying Active Directory and Creating Users](https://github.com/davidj778/Active-Directory)
 - <b>Building Intuition for DNS</b>
-  - [Network File Shares and Permissions](https://github.com/davidj778/Network-File-Shares)
+  - [Building Intuition for DNS](https://github.com/davidj778/Network-File-Shares)
 
 <h2>Connect with me:</h2>
 
