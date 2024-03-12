@@ -1,5 +1,7 @@
-<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/david-j-030135280?original_referer=
-">IT Professional</a></h1>
+<h1>Hi, I'm David, a <a href="https://www.linkedin.com/in/david-j-030135280?original_referer=
+">CyberSecurity Professional</a></h1>
+
+<h2> CyberSecurity Projects:</h2>
 
 <h2> Information Technology Projects:</h2>
 
