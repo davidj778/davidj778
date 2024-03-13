@@ -14,6 +14,12 @@
 
 <h2> CyberSecurity Python Projects:</h2>
 
+  - [Project 1: Password Generator]
+  - [Project 2: Password Manager]
+  - [Project 3: Port Scanner]
+  - [Project 4: Cryptography Cipher]
+  - [Project 5: WHOIS Lookup]
+
 <h2> Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
