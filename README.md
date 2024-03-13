@@ -5,6 +5,8 @@
 
 - <b>Building a SOC + Honeynet</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)]
+(https://github.com/davidj778/Active-Directory)
+- [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/davidj778/building-a-soc-and-honeynet)
 
 - <b>NIST & Incident Response</b>
   - [Implement NIST 800-53]
