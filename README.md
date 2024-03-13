@@ -3,6 +3,13 @@
 
 <h2> CyberSecurity Azure Projects:</h2>
 
+- <b>Building a SOC + Honeynet</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)]
+
+- <b>NIST & Incident Response</b>
+  - [Implement NIST 800-53]
+  - [Incident 1 - Brute Force Success (Windows) - Working Incidents and Incident Response]
+
 <h2> CyberSecurity Python Projects:</h2>
 
 <h2> Information Technology Projects:</h2>
