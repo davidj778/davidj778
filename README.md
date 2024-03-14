@@ -9,7 +9,7 @@
 - <b>NIST & Incident Response</b>
   - [Implement NIST 800-53]
   - [Incident 1 - Brute Force Success (Windows) - Working Incidents and Incident Response](https://github.com/davidj778/Incident-1-Brute-Force-Success-)
-  - [Incident 2 - Possible Privilege Escalation - Working Incidents and Incident Response]
+  - [Incident 2 - Possible Privilege Escalation - Working Incidents and Incident Response](https://github.com/davidj778/Incident-2-Possible-Privilege-Escalation)
   - [Incident 3 - Possible Malware Outbreak - Working Incidents and Incident Response]
 
 <h2> CyberSecurity Python Projects:</h2>
