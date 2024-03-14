@@ -22,6 +22,16 @@
 
 <h2> Google Cybersecurity Projects:</h2>
 
+
+- Conduct a security audit
+- Use the NIST Cybersecurity Framework to respond to a security incident
+- Use Linux commands to manage file permissions
+- Apply filters to SQL queries
+- Analyze a vulnerable system for a  small business
+- Document an incident with an incident handler's journal
+- Finalize your incident handler's journal
+- Update a file through a Python algorithm
+
 <h2> Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
