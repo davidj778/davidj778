@@ -1,7 +1,7 @@
 <h1>Hi, I'm David, a <a href="https://www.linkedin.com/in/david-j-030135280?original_referer=
-">CyberSecurity Professional</a></h1>
+">Cybersecurity Professional</a></h1>
 
-<h2> CyberSecurity Azure Projects:</h2>
+<h2> Cybersecurity Azure Projects:</h2>
 
 - <b>Building a SOC + Honeynet</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/davidj778/building-a-soc-and-honeynet)
@@ -12,13 +12,15 @@
   - [Incident 2 - Possible Privilege Escalation](https://github.com/davidj778/Incident-2-Possible-Privilege-Escalation)
   - [Incident 3 - Possible Malware Outbreak](https://github.com/davidj778/Incident-3-Possible-Malware-Outbreak)
 
-<h2> CyberSecurity Python Projects:</h2>
+<h2> Cybersecurity Python Projects:</h2>
 
   - [Project 1: Password Generator]
   - [Project 2: Password Manager]
   - [Project 3: Port Scanner]
   - [Project 4: Cryptography Cipher]
   - [Project 5: WHOIS Lookup]
+
+<h2> Google Cybersecurity Projects:</h2>
 
 <h2> Information Technology Projects:</h2>
 
