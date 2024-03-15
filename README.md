@@ -15,10 +15,10 @@
 <h2> Cybersecurity Python Projects:</h2>
 
   - [Project 1: Password Generator](https://github.com/davidj778/password-generator)
-  - [Project 2: Password Manager]
-  - [Project 3: Port Scanner]
-  - [Project 4: Cryptography Cipher]
-  - [Project 5: WHOIS Lookup]
+  - [Project 2: Password Manager](https://github.com/davidj778/Password-Manager)
+  - [Project 3: Port Scanner](https://github.com/davidj778/password-generator)
+  - [Project 4: Cryptography Cipher](https://github.com/davidj778/password-generator)
+  - [Project 5: WHOIS Lookup](https://github.com/davidj778/password-generator)
 
 <h2> Google Cybersecurity Projects:</h2>
 
