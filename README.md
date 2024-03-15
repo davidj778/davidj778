@@ -14,7 +14,7 @@
 
 <h2> Cybersecurity Python Projects:</h2>
 
-  - [Project 1: Password Generator]
+  - [Project 1: Password Generator](https://github.com/davidj778/password-generator)
   - [Project 2: Password Manager]
   - [Project 3: Port Scanner]
   - [Project 4: Cryptography Cipher]
