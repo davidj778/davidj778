@@ -23,7 +23,7 @@
 <h2> Google Cybersecurity Projects:</h2>
 
 
-- Conduct a security audit
+- [Conduct a security audit](https://github.com/davidj778/password-generator)
 - Use the NIST Cybersecurity Framework to respond to a security incident
 - Use Linux commands to manage file permissions
 - Apply filters to SQL queries
