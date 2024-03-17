@@ -24,7 +24,7 @@
 
 
 - [Conduct a security audit](https://github.com/davidj778/Conduct-a-security-audit)
-- Use the NIST Cybersecurity Framework to respond to a security incident
+- [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/davidj778/Use-the-NIST-Cybersecurity-Framework-)
 - Use Linux commands to manage file permissions
 - Apply filters to SQL queries
 - Analyze a vulnerable system for a  small business
