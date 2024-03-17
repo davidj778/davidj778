@@ -32,6 +32,8 @@
 - Finalize your incident handler's journal
 - Update a file through a Python algorithm
 
+<h2> Other Security Audits </h2>
+
 <h2> Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
