@@ -27,10 +27,10 @@
 - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/davidj778/Use-the-NIST-Cybersecurity-Framework-)
 - [Use Linux commands to manage file permissions](https://github.com/davidj778/Use-Linux-commands-to-manage-file-permissions)
 - [Apply filters to SQL queries](https://github.com/davidj778/Apply-filters-to-SQL-queries)
-- Analyze a vulnerable system for a  small business
-- Document an incident with an incident handler's journal
-- Finalize your incident handler's journal
-- Update a file through a Python algorithm
+- [Analyze a vulnerable system for a small business](https://github.com/davidj778/Analyze-a-vulnerable-system-for-a-small-business)
+- [Document an incident with an incident handler's journal](https://github.com/davidj778/Document-an-incident-with-an-incident-handler's-journal)
+- [Finalize your incident handler's journal](https://github.com/davidj778/Finalize-your-incident-handler's-journal)
+- [Update a file through a Python algorithm](https://github.com/davidj778/Update-a-file-through-a-Python-algorithm)
 
 <h2> Other Security Audits </h2>
 
