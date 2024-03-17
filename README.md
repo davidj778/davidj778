@@ -29,7 +29,7 @@
 - [Apply filters to SQL queries](https://github.com/davidj778/Apply-filters-to-SQL-queries)
 - [Analyze a vulnerable system for a small business](https://github.com/davidj778/Analyze-a-vulnerable-system-for-a-small-business)
 - [Document an incident with an incident handler's journal](https://github.com/davidj778/Document-an-incident-with-an-incident-handlers-journal)
-- [Finalize your incident handler's journal](https://github.com/davidj778/Finalize-your-incident-handler's-journal)
+- [Finalize your incident handler's journal](https://github.com/davidj778/Finalize-your-incident-handlers-journal)
 - [Update a file through a Python algorithm](https://github.com/davidj778/Update-a-file-through-a-Python-algorithm)
 
 <h2> Other Security Audits </h2>
