@@ -33,6 +33,9 @@
 
 <h2> Other Security Audits </h2>
 
+<h2> TryHackMe </h2>
+
+- Analyze Phishing Emails using Phishtool
 <h2> Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
