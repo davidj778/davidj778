@@ -36,6 +36,7 @@
 <h2> TryHackMe </h2>
 
 - Analyze Phishing Emails using Phishtool
+-  OpenCTI
 <h2> Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
