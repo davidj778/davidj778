@@ -44,6 +44,9 @@
   - [Snort](https://github.com/davidj778/OpenCTI)
   - [Zeek](https://github.com/davidj778/OpenCTI)
   - [WireShark](https://github.com/davidj778/OpenCTI)
+- Endpoint Security Monitoring
+- Security Information and Event Management
+- Digital Forensics and Incident Response
 
 #### SOC Level 2
 
