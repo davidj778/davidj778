@@ -38,7 +38,7 @@
 #### SOC Level 1
 
 - Cyber Threat Intelligence
-  - [Analyze Phishing Emails using Phishtool](https://github.com/davidj778/Analyze-Phishing-Emails-using-Phishtool)
+  - [Phishtool](https://github.com/davidj778/Analyze-Phishing-Emails-using-Phishtool)
   - [OpenCTI](https://github.com/davidj778/OpenCTI)
 - Network Security and Traffic Analysis
   - [Snort](https://github.com/davidj778/OpenCTI)
