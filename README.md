@@ -37,8 +37,12 @@
 
 - [Analyze Phishing Emails using Phishtool](https://github.com/davidj778/Analyze-Phishing-Emails-using-Phishtool)
 -  [OpenCTI](https://github.com/davidj778/OpenCTI)
+-  [Snort](https://github.com/davidj778/OpenCTI)
+-  [Zeek](https://github.com/davidj778/OpenCTI)
+-  [WireShark](https://github.com/davidj778/OpenCTI)
 
-<h2> Information Technology Projects:</h2>
+<h2> Information Technology Projects:
+</h2>
 
 - <b>Active Directory</b>
   - [Deploying Active Directory and Creating Users](https://github.com/davidj778/Active-Directory)
