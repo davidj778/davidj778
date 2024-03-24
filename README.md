@@ -35,6 +35,8 @@
 
 <h2> TryHackMe </h2>
 
+#### SOC Level 1
+
 - Cyber Threat Intelligence
   - [Analyze Phishing Emails using Phishtool](https://github.com/davidj778/Analyze-Phishing-Emails-using-Phishtool)
   - [OpenCTI](https://github.com/davidj778/OpenCTI)
@@ -42,6 +44,8 @@
   - [Snort](https://github.com/davidj778/OpenCTI)
   - [Zeek](https://github.com/davidj778/OpenCTI)
   - [WireShark](https://github.com/davidj778/OpenCTI)
+
+#### SOC Level 2
 
 <h2> Information Technology Projects:
 </h2>
