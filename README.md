@@ -40,6 +40,7 @@
 - Cyber Threat Intelligence
   - [Phishtool](https://github.com/davidj778/Analyze-Phishing-Emails-using-Phishtool)
   - [OpenCTI](https://github.com/davidj778/OpenCTI)
+  - [MISP](https://github.com/davidj778/MISP)
 - Network Security and Traffic Analysis
   - [Snort](https://github.com/davidj778/OpenCTI)
   - [Zeek](https://github.com/davidj778/OpenCTI)
