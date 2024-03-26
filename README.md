@@ -42,9 +42,9 @@
   - [OpenCTI](https://github.com/davidj778/OpenCTI)
   - [MISP](https://github.com/davidj778/MISP)
 - Network Security and Traffic Analysis
-  - [Snort](https://github.com/davidj778/OpenCTI)
-  - [Zeek](https://github.com/davidj778/OpenCTI)
-  - [WireShark](https://github.com/davidj778/OpenCTI)
+  - [Snort](https://github.com/davidj778/snort)
+  - [Zeek](https://github.com/davidj778/zeek)
+  - [WireShark](https://github.com/davidj778/wireshark)
 - Endpoint Security Monitoring
 - Security Information and Event Management
 - Digital Forensics and Incident Response
