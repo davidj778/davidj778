@@ -29,7 +29,7 @@
   - [Use Linux commands to manage file permissions](https://github.com/davidj778/Use-Linux-commands-to-manage-file-permissions)
   - [Apply filters to SQL queries](https://github.com/davidj778/Apply-filters-to-SQL-queries)
 - [Analyze a vulnerable system for a small business](https://github.com/davidj778/Analyze-a-vulnerable-system-for-a-small-business)
-- [Update a file through a Python algorithm](https://github.com/davidj778/Update-a-file-through-a-Python-algorithm)
+
 
 <h2> TryHackMe </h2>
 
