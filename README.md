@@ -31,8 +31,6 @@
 - [Analyze a vulnerable system for a small business](https://github.com/davidj778/Analyze-a-vulnerable-system-for-a-small-business)
 - [Update a file through a Python algorithm](https://github.com/davidj778/Update-a-file-through-a-Python-algorithm)
 
-<h2> Other Security Audits </h2>
-
 <h2> TryHackMe </h2>
 
 #### SOC Level 1
@@ -48,7 +46,14 @@
 - Security Information and Event Management
 - Digital Forensics and Incident Response
 
-#### SOC Level 2
+<h2> SOC Analyst Labs </h2>
+
+- Part 1 - Set up a small virtualization environment (2 small VMs)
+- Part 2 - Put on your adversary hat, it's time to make (and observe) some noise
+- Part 3 - Emulating an adversary for crafting detections
+- Part 4 - Blocking an attack
+- Part 5 - Tuning false positives
+- Part 6 - Trigger YARA scans with a detection rule
 
 <h2> Information Technology Projects:
 </h2>
