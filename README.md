@@ -43,6 +43,7 @@
   - [Zeek](https://github.com/davidj778/zeek)
   - [WireShark](https://github.com/davidj778/wireshark)
 - Endpoint Security Monitoring
+  - [Windows Event Logs](https://github.com/davidj778/Windows-Event-Logs)
 - Security Information and Event Management
 - Digital Forensics and Incident Response
 
