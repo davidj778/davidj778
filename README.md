@@ -44,6 +44,7 @@
   - [WireShark](https://github.com/davidj778/wireshark)
 - Endpoint Security Monitoring
   - [Sysmon](https://github.com/davidj778/Sysmon)
+  - [Wazuh](https://github.com/davidj778/Wazuh)
 - Security Information and Event Management
 - Digital Forensics and Incident Response
 
