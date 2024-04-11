@@ -47,6 +47,7 @@
   - [Wazuh](https://github.com/davidj778/Wazuh)
 - Security Information and Event Management
   - [ELK](https://github.com/davidj778/ELK)
+  - [Splunk](https://github.com/davidj778/Splunk)
 - Digital Forensics and Incident Response
 
 <h2> SOC Analyst Labs </h2>
