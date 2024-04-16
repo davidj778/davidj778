@@ -49,6 +49,8 @@
   - [ELK](https://github.com/davidj778/ELK)
   - [Splunk](https://github.com/davidj778/Splunk)
 - Digital Forensics and Incident Response
+  - [Windows Forensics 1](https://github.com/davidj778/Windows-Forensics-1)
+
 
 <h2> SOC Analyst Labs </h2>
 
